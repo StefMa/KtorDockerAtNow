@@ -1,0 +1,16 @@
+{
+  "name": "ktor-in-docker-at",
+  "alias": "ktor-in-docker-at",
+  "type": "docker",
+  "files": [
+    "Dockerfile",
+
+    "gradle",
+    "gradlew",
+    "settings.gradle",
+    "build.gradle",
+
+    "src",
+    "resources"
+  ]
+}
